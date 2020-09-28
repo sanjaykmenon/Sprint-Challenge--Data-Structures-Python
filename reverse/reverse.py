@@ -46,3 +46,4 @@ class LinkedList:
             node = next_node
         self.head = prev
         pass
+#complete
